@@ -14,9 +14,12 @@
 +  **davra02 :**  David Reyes Alés
 +  **jucamgar2 :**  Juan Jesús Campos Garrido
 
+<img width="800" alt="petclinic-screenshot" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg/1200px-Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg">
+
+
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Sobre el proyecto
 Nuestro proyecto se basa en implementar el juego de mesa IDUS MARTII con el objetivo de dar facilidad para poder disfrutar del juego de forma online con varios
 usuarios. En este juego los jugadores formarán parte del Senado durante una conspiración secreta para acabar con la vida del César. En esta conspiración se encuentran
 enfrentados varios bandos, por un lado, tenemos a los que defienden al César y, por otro lado, los que quieren matarlo. También, tendremos un tercer bando, que es el
@@ -62,4 +65,3 @@ Mercaderes.
 
 Tras finalizar la partida, definiremos los jugadores que han vencido y se guardarán los datos con la facción que has ganado y las estadísticas de la partida.
 
-<img width="1042" alt="petclinic-screenshot" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg/1200px-Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg">
